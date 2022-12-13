@@ -1,0 +1,14 @@
+.carousel {
+    position: relative;
+  
+    display: -webkit-box;
+    display: flex;
+  
+    max-width: 20rem;
+    max-height: 40rem;
+    margin: auto;
+  
+    -webkit-box-pack: center;
+    justify-content: center;
+  }
+ 
