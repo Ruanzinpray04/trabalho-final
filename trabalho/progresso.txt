@@ -1,0 +1,1 @@
+Foi adicionado a função remover, e consertei o erro que estava dando na área do suporte.
